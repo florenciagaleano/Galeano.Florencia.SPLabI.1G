@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1606502921 source:c:\users\galeano\desktop\flor utn\segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606502959 c:\users\galeano\desktop\flor utn\segundo parcial\linkedlist.h
+
+1606502920 source:c:\users\galeano\desktop\flor utn\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606520859 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606514436 c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\linkedlist.h
+
+1606503091 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1606503214 c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\validaciones.h
+
+1606521460 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<time.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+
+1606522479 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\pais.c
+	"pais.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"validaciones.h"
+
+1606519480 c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\pais.h
+	"LinkedList.h"
+
+1606519367 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\parser.c
+	"parser.h"
+	"pais.h"
+	<stdlib.h>
+
+1606514698 c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\parser.h
+	"LinkedList.h"
+	<stdio.h>
+
+1606522597 source:c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\controller.c
+	"controller.h"
+	"parser.h"
+	<stdio.h>
+	<stdlib.h>
+	"pais.h"
+
+1606519749 c:\users\galeano\desktop\flor utn\parcial labo 2\galeano.florencia.splabi.1g\segundo parcial\controller.h
+	"LinkedList.h"
+
